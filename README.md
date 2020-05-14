@@ -7,3 +7,5 @@ In "samples.txt" you will see the different commands that can be entered and the
 I have not included the makefile and some other files I used for compilation for simplistic purposes, but are available upon request.
 
 My header file is fully commented for code clean-up and reuse and I used static implementation to hide the "behind-the-scenes" work. 
+
+trimit.c and trimit.h we're not written by me and the author's have been credited at the top of the file, I used it for implementation of my inventory.c commands. 
